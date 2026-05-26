@@ -334,8 +334,9 @@ Coupon notices have their own formatter that emits three distinct layouts (singl
 
 **Telegram ingestion & raw/processed audit:**
 
-<!-- Video placeholder: ingestion + audit -->
-*(video will be embedded here)*
+
+https://github.com/user-attachments/assets/8360afe3-8e2e-4ac8-b88a-60cf49405c8f
+
 
 **Marketplace automation + face-aware media curation:**
 
